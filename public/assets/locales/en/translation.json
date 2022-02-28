@@ -1,0 +1,16 @@
+{
+    "app_title": "Pagination",
+    "language": "Language",
+    "splash_welcome": "Welcome to the test",
+    "splash_before_test": "There are many difficult questions ahead of you",
+    "next_button": "Next",
+    "prev_button": "Prev",
+    "end_button": "Finish",
+    "start_test_button": "Start",
+    "summary_message": "Summary",
+    "amount_of_correct_answers": "Correct answers",
+    "amount_of_wrong_answers": "Wrong answers",
+    "percentage_scale": "Percentage scale",
+    "check_answers_button": "Check answers",
+    "loading_questions": "Loading questions..."
+  }

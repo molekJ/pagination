@@ -1,0 +1,16 @@
+{
+    "app_title": "Paginacja",
+    "language": "Język",
+    "splash_welcome": "Witamy w teście",
+    "splash_before_test": "Przed Tobą wiele trudnych pytań.",
+    "next_button": "Dalej",
+    "prev_button": "Wstecz",
+    "end_button": "Zakończ",
+    "start_test_button": "Rozpocznij",
+    "summary_message": "Podsumowanie",
+    "amount_of_correct_answers": "Liczba poprawnych odpowiedzi",
+    "amount_of_wrong_answers": "Liczba błędnych odpowiedzi",
+    "percentage_scale": "Skala procentowa",
+    "check_answers_button": "Sprawdź odpowiedzi",
+    "loading_questions": "Ładowanie pytań..."
+  }
